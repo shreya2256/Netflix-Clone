@@ -51,17 +51,6 @@ npm run dev
 App will run at: http://localhost:5173
 
 
-## 📷 Screenshots
-
-### 🏠 Home Page
-![Home Page](./screenshots/Home.png)
-
-### 🎬 Movies List
-![Movies List](./screenshots/Movies_list1.png)
-
-### 🍿 Movie Rows
-![Movie Rows](./screenshots/Movies_list2.png)
-
 
 Future Enhancements
 
