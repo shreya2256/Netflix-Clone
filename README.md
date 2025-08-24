@@ -50,16 +50,18 @@ npm run dev
 
 App will run at: http://localhost:5173
 
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/your-username/Netflix-Clone/main/assets/Home.png)
+![Home Page](./src/assets/Home.png)
 
-### 🔑 Movies List
-![Movie Rows](./assets/Movies_list1.png)
+### 🎬 Movies List
+![Movies List](./src/assets/Movies_list1.png)
 
 ### 🎞 Movie Rows
-![Movie Rows](./assets/movies_list2.png)
+![Movie Rows](./src/assets/Movies_list2.png)
+
 
 
 Future Enhancements
