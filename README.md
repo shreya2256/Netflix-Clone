@@ -53,7 +53,7 @@ App will run at: http://localhost:5173
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./assets/home.png)
+![Home Page](https://raw.githubusercontent.com/your-username/Netflix-Clone/main/assets/Home.png)
 
 ### 🔑 Movies List
 ![Movie Rows](./assets/Movies_list1.png)
